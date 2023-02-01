@@ -1,0 +1,70 @@
+.modal .selection{
+display: block !important;
+
+}
+
+.modal .selection option:hover{
+background: rgb(153, 153, 153) !important;    
+    }
+
+    
+.modal .nice-select{
+    display: none !important;
+}
+
+.profile_container .item{
+
+    margin:5% 1%  !important ;
+}
+.profile_container img{
+    max-width: none;
+}
+
+
+.profile_container  .image_main{
+    padding: unset !important  ;
+    background-color: #fff !important;
+    border: none !important ;
+}
+
+
+.profile_container  .image_main img{
+
+    width: 200px !important;
+    height: 300px !important;
+}
+
+
+
+.blog_section_3 .book_bt{
+    border-radius: 16px;
+    text-align: center;
+    margin-top: 51px;
+    background: #28dfdf;
+    padding: 5px;
+}
+
+.blog_section_3 .clinic_desc{
+    text-align: end;
+}
+
+.blog_section_3 h1{
+    text-align: center;
+}
+
+.blog_section_3 .book_bt p{
+    color: white;
+font-size: 22px;
+font-weight: bold;
+
+}
+
+@media(max-width:600px){
+    .profile_container .item{
+        width: 100% !important;
+        text-align: center;
+    }
+
+}
+
+
